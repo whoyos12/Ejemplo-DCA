@@ -110,7 +110,7 @@ ggplot(laboratorios, aes(x = lab, y = concentracion,
         ylab("Concentración")
 ```
 
-![](DCA_github_files/figure-markdown_github/pressure-1.png)
+![](pressure-1.png)
 
 ### 5. Pruebas de supuestos
 
